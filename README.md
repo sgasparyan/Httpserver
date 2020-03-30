@@ -1,4 +1,4 @@
-This program is a single threaded HTTP server with caching. 
+  This program is a single threaded HTTP server with caching. 
 The makefile in this directory builds an executable fill
 called httpserver. To run the makefile write "make" in the command line.
 Then to run the program write
